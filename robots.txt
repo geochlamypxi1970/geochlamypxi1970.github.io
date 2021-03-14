@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geochlamypxi1970.github.io/sitemap.xml
